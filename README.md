@@ -21,13 +21,3 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clexa97&layout=compact&langs_count=10&theme=dracula"/> 
 </div>
 
-<div>
-  ## Desenvolvedores
-
-O desenvolvedor deste projeto é:
-
-+ Jeferson Gomes da Silva: [@Jeferson5641](linkto:https://github.com/Jeferson5641)
-+ Juliana Lourdes Ransani: [@Clexa97](linkto:https://github.com/Jeferson5641)
-+ Vagner Ferreira Lima Junior: [@vagnerflj](linkto:https://github.com/Jeferson5641)
-
-</div>
