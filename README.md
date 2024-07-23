@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h2> GitHub Stats </h2>
 
-<!--<img src="https://media.tenor.com/c6YiNkNxifgAAAAj/ghost.gif.gif" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=Clexa97&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=1246AB&title_color=1246AB&text_color=FFF" width=550px;>-->
+<img src="https://media.tenor.com/c6YiNkNxifgAAAAj/ghost.gif.gif" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Clexa97&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=1246AB&title_color=1246AB&text_color=FFF" width=550px;>
 
 
 <div align="center">  
